@@ -88,7 +88,7 @@
     "webpack-cli": "4.1.0"
   },
   "dependencies": {
-    "beautiful-react-hooks": "^0.31.0",
+    "beautiful-react-hooks": "^3.11.2",
     "classnames": "^2.2.6",
     "lodash.findindex": "^4.6.0",
     "lodash.isequal": "^4.5.0",
